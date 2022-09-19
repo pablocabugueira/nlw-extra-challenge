@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(assets/background.jpg);
+    background-repeat: no-repeat;
+    background-color: #121214;
+    background-position: top center;
+}
