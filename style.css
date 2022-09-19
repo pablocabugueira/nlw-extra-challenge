@@ -19,6 +19,7 @@ header {
     height: 120px;
     margin-top: 32px;
 }
+
 header div {
     width: 120px;
     margin: auto;
@@ -29,6 +30,12 @@ header div {
     border-radius: 50%;
 
     display: flex;
+
+    transition: transform 0.3s;
+}
+
+header div:hover {
+    transform: scale(1.1);
 }
 
 header img {
@@ -78,9 +85,16 @@ section ul {
     gap: 16px;
     flex-wrap: wrap;
 }
-
 section ul#social {
     margin-top: 24px;
+}
+
+section li {
+    transition: transform 0.3s;
+}
+
+section li:hover {
+    transform: scale(1.1);
 }
 
 section img {
