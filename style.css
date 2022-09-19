@@ -113,10 +113,6 @@ section {
     animation: fromBottom 0.7s 0.2s backwards;
 }
 
-section:nth-child(1) {
-    animation: fromBottom 0.7s 0.4s backwards;
-}
-
 section:nth-child(2) {
     animation: fromBottom 0.7s 0.6s backwards;
 }
