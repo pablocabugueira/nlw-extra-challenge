@@ -110,7 +110,7 @@ header {
 }
 
 section {
-    animation: fromBottom 0.7s 0.2s backwards;
+    animation: fromBottom 0.7s 0.4s backwards;
 }
 
 section:nth-child(2) {
