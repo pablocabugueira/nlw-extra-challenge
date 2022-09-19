@@ -9,4 +9,34 @@ body {
     background-repeat: no-repeat;
     background-color: #121214;
     background-position: top center;
+
+    max-width: 520px;
+    margin: auto;
+}
+
+main {
+    display: grid;
+    gap: 24px;
+}
+
+section div {
+    background-color: #262629;
+}
+
+section h2 {
+    color: white;
+}
+
+section p {
+    color: #C1C1C1;
+}
+
+section ul {
+    list-style-type: none;
+    
+    display: flex;
+}
+
+section img {
+    width: 100px;
 }
