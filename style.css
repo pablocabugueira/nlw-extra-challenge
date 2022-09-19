@@ -84,8 +84,7 @@ section ul {
     display: flex;
     gap: 16px;
     flex-wrap: wrap;
-}
-section ul#social {
+
     margin-top: 24px;
 }
 
@@ -99,7 +98,6 @@ section li:hover {
 
 section img {
     width: 100px;
-    margin-top: 24px;
 
     border-radius: 8px;
     border: 1px solid #555555;
