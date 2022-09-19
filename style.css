@@ -30,6 +30,16 @@ section div {
     padding: 24px 32px 32px 32px;
 }
 
+section h2 {
+    line-height: 160%;
+}
+
+section p {
+    line-height: 160%;
+    letter-spacing: -0.18px;
+    color: #C1C1C1;
+}
+
 section ul {
     list-style-type: none;
 
