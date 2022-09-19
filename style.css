@@ -9,10 +9,14 @@ body {
     background-repeat: no-repeat;
     background-color: #121214;
     background-position: top center;
+    background-size: 100% auto;
 
     max-width: 520px;
     width: 90%;
     margin: auto;
+
+    color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 
 main {
@@ -26,22 +30,16 @@ section div {
     padding: 24px 32px 32px 32px;
 }
 
-section h2 {
-    color: white;
-    font-family: 'Montserrat', sans-serif;
-}
-
-section p {
-    color: #C1C1C1;
-    font-family: 'Montserrat', sans-serif;
-}
-
 section ul {
     list-style-type: none;
 
     display: flex;
     gap: 16px;
     flex-wrap: wrap;
+}
+
+section ul#social {
+    margin-top: 24px;
 }
 
 section img {
