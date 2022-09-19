@@ -25,15 +25,17 @@ section div {
 
 section h2 {
     color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 
 section p {
     color: #C1C1C1;
+    font-family: 'Montserrat', sans-serif;
 }
 
 section ul {
     list-style-type: none;
-    
+
     display: flex;
 }
 
