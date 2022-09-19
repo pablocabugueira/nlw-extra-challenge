@@ -24,6 +24,14 @@ main {
     gap: 24px;
 }
 
+section {
+    background-image: linear-gradient(90deg, #C91842, #5CC2E2);
+
+    padding-top: 4px;
+
+    border-radius: 10px;
+}
+
 section div {
     background-color: #262629;
 
